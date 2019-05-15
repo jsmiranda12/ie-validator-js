@@ -1,5 +1,5 @@
 /************************************************
- * AC - IE validator for Acre state
+ * AC - IE validator for São Paulo state
  ************************************************/
 
 let h = require("../util/helper");
